@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(14, 12, 12); 
+    background-color: rgb(32, 32, 32); 
 }
 
 .title,h1{
@@ -26,7 +26,7 @@ body{
     width: 78vw;
     height: 100vh;
     display: block;
-    background-color: rgb(14, 12, 12);
+    background-color: rgb(32, 32, 32);
     border-collapse:collapse;
     overflow: auto;  
 }
@@ -55,7 +55,7 @@ body{
 .th1{
     background-color: rgb(255, 249, 249);
     text-align: left;
-    color: black;
+    color: rgb(32, 32, 32);
 }
 .th2{
     background-color: rgb(233, 154, 7);
@@ -104,3 +104,4 @@ body{
     font-weight: 800;
     letter-spacing: 1px;
 }
+
